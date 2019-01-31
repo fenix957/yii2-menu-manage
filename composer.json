@@ -1,0 +1,21 @@
+{
+    "name": "fenix957/yii2-menu-manage",
+    "description": "Menu Manage for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","menu"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Fenix957",
+            "email": "max@f4z.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "fenix957\\MenuManage\\": ""
+        }
+    }
+}
